@@ -1,5 +1,9 @@
 # flags_app
 
+A simple Vue.js app.
+
+Deployed in: 
+
 ## Project setup
 ```
 npm install
