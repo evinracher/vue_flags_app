@@ -2,7 +2,7 @@
 
 A simple Vue.js app.
 
-Deployed in: 
+Deployed on: https://evinracher-country-flags-app.netlify.app/
 
 ## Project setup
 ```
